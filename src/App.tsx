@@ -1,4 +1,3 @@
-import React from "react";
 import "antd/dist/reset.css";
 import UserTable from "./components/UserTable";
 
